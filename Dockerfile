@@ -1,5 +1,0 @@
- FROM Ubuntu
- RUN
- WORKDIR
- USER
- ENV
